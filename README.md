@@ -5,3 +5,4 @@ $ cargo new rust_tar --bin
 $ tar -xvf foo.tar 
 
 create a folder: mkdir folder
+We can delete folder "Data" once we create the file .tar
